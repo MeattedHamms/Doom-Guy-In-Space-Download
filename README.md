@@ -1,6 +1,5 @@
-# Doom-Guy-In-Space-Download
-This is where you download Jack's Black Belt Graduation game.
-
-Download The DoomGuyInSpacev1.6
-Put it on your desktop
-Run the game and have fun!
+1. Click on Tags
+2. Click On Game
+3. Click on DoomGuyInSpacev1.6.zip
+4. Extract all files into a new folder
+5. Play the game!
